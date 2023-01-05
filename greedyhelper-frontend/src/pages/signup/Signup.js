@@ -6,7 +6,7 @@ function Signup() {
     <>
       <div>Signup</div>
 
-      <Link to="/home" className="navbar-logo">
+      <Link to="/" className="navbar-logo">
         <h1>Home</h1>
       </Link>
     </>
